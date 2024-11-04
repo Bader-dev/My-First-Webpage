@@ -1,0 +1,36 @@
+body{
+    background-color: #ffe5d9;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+  }
+
+  .container {
+    display: flex; 
+    align-items: center;
+}
+
+.pfp {
+    width: 90px;
+    height: 90px;
+    border-radius: 150px;
+    margin-right: 10px;
+}
+
+.aboutMe {
+    margin: 0;
+    
+}
+
+.List{
+    margin-bottom: 0px;
+}
+
+.bike{
+    height: 466;
+    width: 300px;
+}
